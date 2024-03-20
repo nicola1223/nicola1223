@@ -21,7 +21,7 @@
 <hr>
 <p align="center"
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicola1223&layout=compact&hide=javascript,html,css&theme=radical" alt="Top Languages" />
+    <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicola1223&layout=compact&hide=javascript,html,css&theme=radical" alt="Top Languages" />
   </a>
   <img src="https://github-readme-stats.vercel.app/api?username=nicola1223&show_icons=true&theme=radical" alt="nicola1223's GitHub stats">
 </p>
