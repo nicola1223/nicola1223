@@ -19,5 +19,5 @@
 <br>
 <hr>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicola1223&layout=compact&hide=javascript,html,css" alt="Top Languages" />
+  <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicola1223&layout=compact&hide=javascript,html,css" alt="Top Languages" />
 </a>
