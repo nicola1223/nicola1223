@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
 </p>
 <hr>
-<p align="center"
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nicola1223&show_icons=true&theme=radical" alt="nicola1223's GitHub stats">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicola1223&layout=compact&hide=javascript,html,css&theme=radical" alt="Top Languages" />
