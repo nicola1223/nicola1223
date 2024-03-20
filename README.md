@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Nicolay
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Python-developer</h3>
-<br>
+<img src="https://komarev.com/ghpvc/?username=nicola1223" alt="Profile Views">
 <hr>
 <p>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI">
   <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
 </p>
-<br>
 <hr>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicola1223&layout=compact&hide=javascript,html,css" alt="Top Languages" />
