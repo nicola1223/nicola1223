@@ -31,3 +31,4 @@
     <img src="https://leetcode-stats-six.vercel.app/api?username=nicola1223&theme=dark" alt="KnlnKS's LeetCode stats">
   </a>
 </p>
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
