@@ -25,10 +25,10 @@
     <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicola1223&layout=compact&hide=javascript,html,css&theme=radical" alt="Top Languages" />
   </a>
 </p>
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
 <hr>
 <p align="center">
   <a href="https://github.com/KnlnKS/leetcode-stats">
     <img src="https://leetcode-stats-six.vercel.app/api?username=nicola1223&theme=dark" alt="KnlnKS's LeetCode stats">
   </a>
 </p>
-<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
