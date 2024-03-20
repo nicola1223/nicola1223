@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Nicolay
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Python-developer</h3>
-<img src="https://komarev.com/ghpvc/?username=nicola1223" alt="Profile Views">
+<img align="center" src="https://komarev.com/ghpvc/?username=nicola1223" alt="Profile Views">
 <hr>
 <p>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
