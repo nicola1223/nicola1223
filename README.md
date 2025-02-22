@@ -32,4 +32,4 @@
   </a>
 </p> -->
 <hr>
-<p align="center">![snake gif](https://github.com/nicola1223/nicola1223/blob/output/github-contribution-grid-snake.gif)</p>
+![snake gif](https://github.com/nicola1223/nicola1223/blob/output/github-contribution-grid-snake.gif)
