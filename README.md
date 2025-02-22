@@ -33,5 +33,4 @@
 </p> -->
 <hr>
 
-![snake gif]
-(https://github.com/nicola1223/nicola1223/blob/output/github-contribution-grid-snake.gif)
+[![GitHub Snake](https://raw.githubusercontent.com/nicola1223/nicola1223/output/github-contribution-grid-snake.gif)](https://github.com/nicola1223/nicola1223/blob/output/github-contribution-grid-snake.svg)
