@@ -34,5 +34,4 @@
 <hr>
 
 ## My Activity
-
-[![GitHub Snake](https://raw.githubusercontent.com/nicola1223/nicola1223/output/github-contribution-grid-snake.svg)](https://github.com/nicola1223/nicola1223/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/nicola1223/nicola1223/blob/output/github-contribution-grid-snake.gif)
