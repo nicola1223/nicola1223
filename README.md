@@ -33,7 +33,7 @@
 </p> -->
 <hr>
 
-## My Activity
+<h1 align="center">My Activity</h1>
 <div align="center"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicola1223/nicola1223/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nicola1223/nicola1223/output/github-contribution-grid-snake.svg">
@@ -41,4 +41,8 @@
 </picture></div>
 
 <hr>
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<div align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Readme Quotes">
+  </a>
+</div>
