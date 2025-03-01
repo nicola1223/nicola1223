@@ -20,9 +20,9 @@
 </p>
 <hr>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicola1223&show_icons=true&theme=radical" alt="nicola1223's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=nicola1223&show_icons=true&theme=dark" alt="nicola1223's GitHub stats">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicola1223&layout=compact&hide=javascript,html,css&theme=radical" alt="Top Languages" />
+    <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicola1223&layout=compact&hide=javascript,html,css&theme=dark" alt="Top Languages" />
   </a>
 </p>
 <!-- <hr>
@@ -43,6 +43,6 @@
 <hr>
 <div align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Readme Quotes">
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes">
   </a>
 </div>
