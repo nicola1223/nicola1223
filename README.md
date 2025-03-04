@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Nicolay
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Python-developer, ML-engineer</h3>
+<h3 align="center">Python-developer</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nicola1223" alt="Profile Views">
 </p>
