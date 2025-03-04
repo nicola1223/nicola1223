@@ -22,7 +22,7 @@
 <hr>
 <div align="center">
   
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nicola1223&hide=javascript,html,css&theme=transparent) 
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nicola1223&theme=transparent)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nicola1223&theme=transparent)
   
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=nicola1223&layout=compact&show_icons=true&theme=transparent" alt="nicola1223's GitHub stats" style="border: none;">
