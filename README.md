@@ -21,8 +21,12 @@
 </p>
 <hr>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicola1223&layout=compact&show_icons=true&theme=transparent" alt="nicola1223's GitHub stats" style="border: none;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicola1223&layout=compact&hide=javascript,html,css&theme=transparent" alt="Top Languages" />
+  
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nicola1223&theme=transparent) 
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nicola1223&hide=javascript,html,css&theme=transparent)
+  
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=nicola1223&layout=compact&show_icons=true&theme=transparent" alt="nicola1223's GitHub stats" style="border: none;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicola1223&layout=compact&hide=javascript,html,css&theme=transparent" alt="Top Languages" /> -->
 </div>
 <!-- <hr>
 <p align="center">
