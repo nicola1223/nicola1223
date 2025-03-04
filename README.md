@@ -22,6 +22,11 @@
 <hr>
 <h1 align="center">GitHub Stats</h1>
 <div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicola1223&theme=transparent)
+
+</div>
+<div align="center">
   
   ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nicola1223&theme=transparent)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nicola1223&theme=transparent)
