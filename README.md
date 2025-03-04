@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/-SQL-%23A500B5?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL">
 </p>
 <hr>
+<h1 align="center">GitHub Stats</h1>
 <div align="center">
   
   ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nicola1223&theme=transparent)
