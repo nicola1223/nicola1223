@@ -20,12 +20,10 @@
   <img src="https://img.shields.io/badge/-SQL-%23A500B5?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL">
 </p>
 <hr>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicola1223&show_icons=true&theme=dark" alt="nicola1223's GitHub stats">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicola1223&layout=compact&hide=javascript,html,css&theme=dark" alt="Top Languages" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nicola1223&layout=compact&show_icons=true&theme=transparent" alt="nicola1223's GitHub stats" style="border: none;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicola1223&layout=compact&hide=javascript,html,css&theme=transparent" alt="Top Languages" />
+</div>
 <!-- <hr>
 <p align="center">
   <a href="https://github.com/KnlnKS/leetcode-stats">
