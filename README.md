@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, I'm Nicolay
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Python-developer</h3>
+<h4>I am skilled software engineer with experience in Python, machine learning, and web development. Has experience in leveraging a wide range of Python libraries and frameworks, including TensorFlow, Keras, PyTorch for creating DL models, Django, Flask, and FastAPI for web development. I can build scalable and efficient applications utilizing multithreading, multiprocessing, and advanced data processing techniques. I'm well versed at computer vision and image processing using OpenCV, not bad in developing chatbots and automation tools with Telegram and Discord bot APIs. Well-versed in database management, Redis caching, Kafka messaging, Git version control, and Linux system administration. Deeply knowledgeable in object-oriented programming (OOP) and SOLID principles.</h4>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nicola1223" alt="Profile Views">
 </p>
