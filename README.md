@@ -43,7 +43,7 @@
 </p> -->
 <hr>
 
-<h1 align="center">My Activity</h1>
+<h1 align="center">My  Activity</h1>
 <div align="center"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicola1223/nicola1223/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nicola1223/nicola1223/output/github-contribution-grid-snake.svg">
